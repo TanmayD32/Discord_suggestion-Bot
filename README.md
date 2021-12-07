@@ -6,7 +6,7 @@ HOW TO INSTALL?
 
 You have to install latest python verson on your Desktop.
 Python- https://www.python.org/downloads/
-Steps to install- https://www.youtube.com/watch?v=uDbDIhR76H4
+Steps to install- https://www.youtube.com/watch?v=uDbDIhR76H4 (Not My Video)
 
 Install Discord.py. Step 1 - Go to CMD and type, pip install discord (It will take some time) And you are good to go :)
 
