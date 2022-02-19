@@ -12,4 +12,4 @@ Install Discord.py. Step 1 - Go to CMD and type, pip install discord (It will ta
 
 Step 2 - Run the bot. Download my Bot code. After downloading it, Right click on that file >> Open With >> Python (If you want to edit the code, Right click on that file >> Open With >> {Your text editor})
 
-If you have any questions regarding my bot, feel free to DM me on discord- Tanmay#3877
+If you have any questions regarding my bot, feel free to DM me on discord- Tanmay#3268
